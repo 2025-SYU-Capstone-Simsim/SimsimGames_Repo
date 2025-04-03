@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "27eb67b6-8933-4694-842b-40b37f517086",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 492,
+  "height": 296,
+  "platformSettings": {},
+  "subMetas": {
+    "ice_slide_game": {
+      "ver": "1.0.6",
+      "uuid": "64811ae3-c80e-4b81-9a4a-01f8474827e3",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "27eb67b6-8933-4694-842b-40b37f517086",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 492,
+      "height": 296,
+      "rawWidth": 492,
+      "rawHeight": 296,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
