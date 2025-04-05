@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8c628a5f-57c7-4c55-a550-9778d9cee082",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 64,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "card_clubs_03": {
+      "ver": "1.0.6",
+      "uuid": "b58cdd19-ab03-4369-882e-b8fb4503a169",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8c628a5f-57c7-4c55-a550-9778d9cee082",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 11,
+      "trimY": 2,
+      "width": 42,
+      "height": 60,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

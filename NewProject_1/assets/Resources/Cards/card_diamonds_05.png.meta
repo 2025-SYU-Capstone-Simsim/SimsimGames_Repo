@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a0856b85-6fb6-46e4-9d4b-b3671c702d42",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 64,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "card_diamonds_05": {
+      "ver": "1.0.6",
+      "uuid": "75b97442-27a7-49a5-ae29-d77a8b597e4d",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a0856b85-6fb6-46e4-9d4b-b3671c702d42",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 11,
+      "trimY": 2,
+      "width": 42,
+      "height": 60,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
